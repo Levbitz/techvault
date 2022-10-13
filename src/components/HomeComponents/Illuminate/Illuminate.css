@@ -1,0 +1,7 @@
+.illuminate_wrapper {
+  background-image: url("../../../images/ill.jpeg");
+  min-height: 70vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
