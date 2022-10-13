@@ -1,0 +1,86 @@
+.InnovationCarosel_wrap {
+  padding: 50px 0px;
+}
+
+.InnovationCarosel_wrap .one {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s1.jpg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .two {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s2.jpg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .three {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s3.jpg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .four {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s1.jpg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .five {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s5.jpg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .six {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s6.jpeg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .seven {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s7.jpeg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .eight {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s8.jpeg");
+  height: 600px;
+}
+.InnovationCarosel_wrap .nine {
+  background-image: linear-gradient(90deg, rgb(3 15 39/69%), rgb(3 15 39/70%)),
+    url("../../../images/s9.jpeg");
+  height: 600px;
+}
+
+.slick-dots li button {
+  font-size: 0;
+  line-height: 0;
+  display: block;
+  width: 50px !important;
+  height: 20px;
+  padding: 5px;
+  cursor: pointer;
+  color: green !important;
+  border: 0;
+  outline: none;
+  background: transparent;
+}
+
+.slick-dots li.slick-active button:before {
+  color: White !important;
+  font-size: 15px;
+}
+
+.slick-dots li button:before {
+  color: orange;
+}
+
+.InnovationCarosel_wrap .container {
+  position: relative;
+}
+
+.InnovationCarosel_wrap .container .content {
+  position: absolute;
+  top: 400px;
+}
+
+.InnovationCarosel_wrap .container .content h4 {
+  color: white;
+  cursor: pointer;
+}

@@ -11,22 +11,23 @@ function Illuminate() {
             minHeight: "70vh",
             background: "rgb(9, 9, 9)",
           }}
-          className="col l5 "
+          className="col l5 center-align "
         >
-          <div>
-            <h5>Choose the smarter way to illuminate your abode</h5>
+          <div className="content">
+            <h3> Home automation </h3>
 
             <div>
               <p>
-                Get ready for a majestic experience with our smart lights that
-                enable you to monitor every lighting piece remotely, save energy
-                consumption, dim the lights according to one's mood or change
-                the colour settings of lights that serve several options to
-                choose for. This is the beauty of our smart lights which is just
-                more than monitoring or saving energy. It gives you a whole new
-                level of lighting experience with its smart features. So get
-                ready to feel the legacy of smarter lighting today with
-                Techvault!
+                Home automation gets you involved. Set your personal preferences
+                and actions, then sit back and enjoy using the latest in-home
+                automation technology. Though such technology is quite complex,
+                it remains completely flexible and user-friendly making for a
+                fun experience. High-tech products for the home are fun to use
+                and share with others. Whether viewing visitors at your front
+                door on your TV or tuning your stereo by using voice
+                recognition, you’ll find home automation surprisingly enjoyable.
+                And when it comes to impressing the friends, you’ll be happy to
+                show off your newfound applications.
               </p>
             </div>
           </div>

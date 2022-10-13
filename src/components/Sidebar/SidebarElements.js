@@ -54,14 +54,14 @@ export const SidebarMenu = styled.div`
 export const SidebarLink = styled(Link)`
   display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: 1.5rem;
+  /* justify-content: center; */
+  font-size: 4.5rem;
   text-decoration: none;
   list-style: none;
   transition: 0.2s ease-in-out;
   color: #fff;
   cursor: pointer;
-
+  margin-left: 20px;
   &:hover {
     color: #e31837;
     transition: 0.2s ease-in-out;

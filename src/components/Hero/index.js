@@ -19,7 +19,7 @@ const Hero = () => {
         muted={true}
         loop={true}
         width={"100%"}
-        height={"100%"}
+        height={"50%"}
         src={Vid}
       ></video>
     </div>

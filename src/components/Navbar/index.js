@@ -8,7 +8,7 @@ const Navbar = ({ toggle }) => {
     <>
       <Nav className="z-depth-0">
         <NavLink to="/">
-          <SiLamborghini size={30} color="red" />
+          <span>Audiolux</span>
         </NavLink>
         <NavIcon onClick={toggle}>
           <FaBars size={20} style={{ marginRight: 20, marginTop: 20 }} />

@@ -1,0 +1,12 @@
+.home_about_wrap {
+  padding: 50px 0px;
+}
+
+.home_about_wrap .content {
+  padding-top: 50px;
+}
+
+.home_about_wrap .content h3 {
+  font-size: 40px;
+  font-weight: bold;
+}

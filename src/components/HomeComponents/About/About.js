@@ -1,22 +1,20 @@
 import React from "react";
 import { Parallax, Background } from "react-parallax";
-import HomeAbtImg from "../../../images/homeAbt.jpeg";
+import HomeAbtImg from "../../../images/homeAbt.jpg";
+import "./About.css";
 
 function About() {
   return (
-    <div className="">
+    <div className="home_about_wrap">
       <div className="row">
         <div className="col l4 offset-l1">
-          <div>
-            <h3 className="white-text">
-              Live the Pleasure of a Smart & Innovative
-            </h3>
+          <div className="content">
+            <h3 className="white-text">WHO WE ARE?</h3>
             <p className="white-text">
-              A comfortable, luxury, high performance private home theater is
-              the perfect way to bring family and friends together, and it is a
-              source of many hours of entertainment. At AudioLux, we are
-              passionate about creating home entertainment spaces that are
-              personalized to suit our clients and their families
+              We are an advanced systems integrator of visual communication
+              products, projects, technologies design and services. We will
+              design your vision and produce a system that meets your specific
+              requirements using quality equipment and is easy to use.
             </p>
 
             <div
@@ -55,7 +53,7 @@ function About() {
             </div>
           </div>
         </div>
-        <div className="col l7">
+        <div className="col l7 hide-on-med-and-down">
           <div
             style={{
               padding: 80,
