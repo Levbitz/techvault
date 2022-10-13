@@ -6,7 +6,7 @@ function About() {
       <div className="row">
         <div className="col l6">
           <div>
-            <h3>Adiolux</h3>
+            <h3>Adioluxii</h3>
             <p className="">
               A comfortable, luxury, high performance private home theater is
               the perfect way to bring family and friends together, and it is a
